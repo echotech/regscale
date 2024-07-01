@@ -1,0 +1,6 @@
+selenium
+requests==2.31.0
+pytest
+webdriver-manager
+urllib3==1.26.15
+charset-normalizer==2.0.12
